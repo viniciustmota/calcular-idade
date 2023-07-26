@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\bin\Debug\Calcular idade.exe.config
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\bin\Debug\Calcular idade.exe
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\bin\Debug\Calcular idade.pdb
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular idade.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular_idade.Form1.resources
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular_idade.Properties.Resources.resources
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular idade.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular idade.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular idade.exe
+C:\Users\Fatec\Desktop\calcular-idade\Calcular idade\Calcular idade\obj\Debug\Calcular idade.pdb
